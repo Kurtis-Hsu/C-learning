@@ -1,0 +1,5 @@
+D:/WorkSpace/Project/C/C-learning/cmake-build-debug/CMakeFiles/HelloWord.dir
+D:/WorkSpace/Project/C/C-learning/cmake-build-debug/CMakeFiles/comment.dir
+D:/WorkSpace/Project/C/C-learning/cmake-build-debug/CMakeFiles/function.dir
+D:/WorkSpace/Project/C/C-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WorkSpace/Project/C/C-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
