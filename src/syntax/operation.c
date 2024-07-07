@@ -10,4 +10,5 @@ void main()
     printf("%zd\n", sizeof 1); // zd 专为为 size_t 类型而生
     printf("%lu\n", sizeof 1.0);
     printf("%lld\n", sizeof(float));
+    printf("%lld\n", sizeof(*"123456"));
 }

@@ -86,5 +86,7 @@ void main()
     printf("value of float: %f, size: %lld\n", f, sizeof f);
     printf("value of double: %f, size: %lld\n", d, sizeof d);
 
-    printf("%f", PI);
+    printf("%f\n", PI);
+
+    printf("%d\n", 1 != 1);
 }

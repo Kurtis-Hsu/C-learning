@@ -1,6 +1,12 @@
-// 每个 C 程序由一个或多个函数组成，有且仅有一个主函数（main）
-// 函数是 C 程序的基本单位
+#include <stdio.h>
+int sum(int a, int b); // 声明一个函数
+
 void main()
 {
+    printf("%d + %d = %d", 1, 1, sum(1, 1));
+}
 
+int sum(const int a, const int b)
+{
+    return a + b;
 }
