@@ -1,0 +1,1 @@
+.\cmake-build-debug\redirectIO.exe<.\test.txt>.\test2.txt

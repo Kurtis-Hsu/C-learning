@@ -24,4 +24,8 @@ string.\n"
     printf("What's your name? >");
     scanf("%s", &name);
     printf("Hello %s!\n", name);
+
+    printf("give me a character >");
+    putchar(c);
+    printf("get a character: %c\n", c);
 }
